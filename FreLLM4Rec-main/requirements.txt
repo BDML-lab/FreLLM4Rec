@@ -1,6 +1,0 @@
-torch=2.4.0
-numpy=1.25.2
-accelerate=3.10.2
-bitsandbytes=0.43.1
-transformers=4.43.1
-peft=0.12.0
